@@ -17,4 +17,15 @@ public class data {
 		System.out.println("Keep Smiling, Have a Great Day");
 		
 	}
+	
+	public void Data()  {
+		System.out.println("new code");
+	
+	}
+	public void count()  {
+		System.out.println("Happy Days");
+		
+		
+	}
+	
 }
