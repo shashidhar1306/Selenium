@@ -24,8 +24,8 @@ public class data {
 	}
 	public void count()  {
 		System.out.println("Happy Days");
-		
-		
+		System.out.println("GITHUB");
+		System.out.println("POSTMAN");
 	}
 	
 }
