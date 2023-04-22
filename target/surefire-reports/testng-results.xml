@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="CarLoan" duration-ms="8704" started-at="2023-04-22T05:37:36 IST" finished-at="2023-04-22T05:37:45 IST">
+    <groups>
+    </groups>
+    <test name="Testing" duration-ms="8704" started-at="2023-04-22T05:37:36 IST" finished-at="2023-04-22T05:37:45 IST">
+      <class name="rahulshettyacademy.Sathviki.internal">
+        <test-method status="PASS" signature="external()[pri:0, instance:rahulshettyacademy.Sathviki.internal@26a7b76d]" name="external" duration-ms="8606" started-at="2023-04-22T05:37:36 IST" finished-at="2023-04-22T05:37:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- external -->
+        <test-method status="PASS" signature="projectexecution()[pri:0, instance:rahulshettyacademy.Sathviki.internal@26a7b76d]" name="projectexecution" duration-ms="1" started-at="2023-04-22T05:37:45 IST" finished-at="2023-04-22T05:37:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- projectexecution -->
+      </class> <!-- rahulshettyacademy.Sathviki.internal -->
+      <class name="rahulshettyacademy.Sathviki.data">
+        <test-method status="PASS" signature="projectexecution()[pri:0, instance:rahulshettyacademy.Sathviki.data@5bfbf16f]" name="projectexecution" duration-ms="0" started-at="2023-04-22T05:37:45 IST" finished-at="2023-04-22T05:37:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- projectexecution -->
+      </class> <!-- rahulshettyacademy.Sathviki.data -->
+    </test> <!-- Testing -->
+  </suite> <!-- CarLoan -->
+</testng-results>
