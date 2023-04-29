@@ -18,7 +18,7 @@ public class innerforloop {
 			{
 				System.out.print(d);
 				System.out.print("\t");
-			
+				System.out.print("thank you");
 			}
 			System.out.println(" ");
 		
